@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:oak_slab",
+    "count": 1
+  }
+}
